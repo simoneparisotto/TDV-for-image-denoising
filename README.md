@@ -1,6 +1,8 @@
 # (High-order) Total directional variation for Image Denoising
 
-**Authors**: Simone Parisotto, Jan Lellmann, Simon Masnou and Carola-Bibiane Schoenlieb
+**Author**: S. Parisotto
+
+**Other authors** J. Lellmann, S. Masnou and C.-B. Schönlieb
 
 **Version 1.0**
 
@@ -28,15 +30,15 @@ Please use the following entry to cite this code:
 ```
 
 From left to right: noisy image with Gaussian noise of standard deviation sigma=51/255, BM3D reconstruction, TDV reconstruction
-<img src="https://raw.githubusercontent.com/simoneparisotto/TDV_denoising/master/results/rainbow/20percent_gauss_noisy.png"  width=32%> 
-<img src="https://raw.githubusercontent.com/simoneparisotto/TDV_denoising/master/results/rainbow/u_bm3d_image_PSNR34.5294.png" width=32%> 
-<img src="https://raw.githubusercontent.com/simoneparisotto/TDV_denoising/master/results/rainbow/u_eta3.5_bvary_a1-0-1_sigma2_rho30_iter1_PSNR35.9083.png" width=32%>
+<img src="https://raw.githubusercontent.com/simoneparisotto/TDV-for-image-denoising/master/results/rainbow/20percent_gauss_noisy.png"  width=32%> 
+<img src="https://raw.githubusercontent.com/simoneparisotto/TDV-for-image-denoising/master/results/rainbow/u_bm3d_image_PSNR34.5294.png" width=32%> 
+<img src="https://raw.githubusercontent.com/simoneparisotto/TDV-for-image-denoising/master/results/rainbow/u_eta3.5_bvary_a1-0-1_sigma2_rho30_iter1_PSNR35.9083.png" width=32%>
 
 ######  Software acknowledgements
-# [Primal-dual proximal splitting](http://www.numerical-tours.com/matlab/optim_5_primal_dual/)
-# [BM3D](http://www.cs.tut.fi/~foi/GCF-BM3D/index.html)
-# [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
-# [Diverging Color Maps](https://link.springer.com/chapter/10.1007/978-3-642-10520-3_9)
+* [Primal-dual proximal splitting](http://www.numerical-tours.com/matlab/optim_5_primal_dual/)
+* [BM3D](http://www.cs.tut.fi/~foi/GCF-BM3D/index.html)
+* [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
+* [Diverging Color Maps](https://link.springer.com/chapter/10.1007/978-3-642-10520-3_9)
   
 #### LICENSE
 [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
