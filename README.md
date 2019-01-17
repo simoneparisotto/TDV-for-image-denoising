@@ -30,7 +30,8 @@ Please use the following entry to cite this code:
 ```
 
 #### Example
-Image with Gaussian noise  (std=51/255) vs. BM3D vs. TDV reconstruction
+Image with Gaussian noise  (std=51/255) vs. BM3D reconstruction vs. TDV reconstruction
+
 <img src="https://raw.githubusercontent.com/simoneparisotto/TDV-for-image-denoising/master/results/rainbow/20percent_gauss_noisy.png"  width=32%> 
 <img src="https://raw.githubusercontent.com/simoneparisotto/TDV-for-image-denoising/master/results/rainbow/u_bm3d_image_PSNR34.5294.png" width=32%> 
 <img src="https://raw.githubusercontent.com/simoneparisotto/TDV-for-image-denoising/master/results/rainbow/u_eta3.5_bvary_a1-0-1_sigma2_rho30_iter1_PSNR35.9083.png" width=32%>
