@@ -10,7 +10,7 @@
 % Output:
 % u            = denoised image
 % v            = vector field
-% tiem         = cpu time elapsed
+% time         = cpu time elapsed
 % varargout{1} = PSNR (if varargin{1} = unoise)
 %
 % Companion software to

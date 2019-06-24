@@ -34,6 +34,7 @@ addpath ./lib/TDV
 addpath ./lib/structure_tensor
 addpath ./lib/operators
 addpath ./lib/BM3D
+addpath ./lib/lib_Jan
 addpath ./lib/plots/export_fig-master/
 addpath ./lib/plots
 
