@@ -11,21 +11,19 @@
 This is a companion software for the [submission](https://arxiv.org/abs/1812.05023)
 ```
 S. Parisotto, J. Lellmann, S. Masnou and C.-B. Schönlieb 
-"(Higher-Order) Total Directional Variation. Part I: Imaging Applications"
-arXiv:1812.05023, 2018.
+"Higher-Order Total Directional Variation: Imaging Applications"
+SIAM J. Imaging Sci., 13(4), 2063–2104. (42 pages) 
 ```
 Please use the following entry to cite this code:
 ```
 @article{ParLelMasSch2018,
   author = {{Parisotto}, S. and {Lellmann}, J. and {Masnou}, S. and {Sch{\"o}nlieb}, C.-B.},
-  title = "{Higher-Order Total Directional Variation. Part I: Imaging Applications}",
-  journal = {arXiv e-prints},
-  year = 2018,
-  month = Dec,
-  eid = {arXiv:1812.05023},
-  pages = {arXiv:1812.05023},
-  archivePrefix = {arXiv},
-  eprint = {1812.05023},
+  title = {{Higher-Order Total Directional Variation: Imaging Applications}},
+  journal = {SIAM Journal on Imaging Sciences},
+  year = {2020},
+  volume = {13},
+  pages = {2063-2104},
+  doi = {10.1137/19M1239209}
   }
 ```
 
