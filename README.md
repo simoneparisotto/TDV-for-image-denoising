@@ -8,7 +8,7 @@
 
 **Date**: January 2019
 
-This is a companion software for the [submission](https://arxiv.org/abs/1812.05023)
+This is a companion software for the [submission](https://epubs.siam.org/doi/abs/10.1137/19M1239209)
 ```
 S. Parisotto, J. Lellmann, S. Masnou and C.-B. Schönlieb 
 "Higher-Order Total Directional Variation: Imaging Applications"
